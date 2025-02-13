@@ -10,6 +10,9 @@ Jogo desenvolvimento para a disciplina de Desenvolvimento de Jogos do curso de S
 
 Este é um jogo de plataforma 2D desenvolvido na Unity utilizando C#. O objetivo é coletar todas as moedas presentes em cada fase, totalizando 20 moedas, derrotar inimigos (após coletar um item especial) e progredir entre fases, mantendo a quantidade de moedas coletadas. O jogo também possui um sistema de vidas e checkpoints.
 
+#Existem 12 moedas na Fase 1 e 8 moedas na Fase 2. O player só avança para a próxima fase se coletar todas as moedas da fase atual. Após coletar todas as moedas da Fase 2 a mensagem de vitória é exibida depois volta para a tela de menu.
+
+Não morra na Fase 2.
 ## Requisitos
 
 - Unity (versão recomendada 2021 ou superior)
